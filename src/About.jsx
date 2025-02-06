@@ -13,7 +13,7 @@ function About() {
                     <div className='lg:h-4/5 lg:w-1/2 h-3/4 w-full rounded-lg flex flex-col items-center justify-evenly space-y-4'>
                         <h1 className='lg:text-3xl text-lg fnt text-neutral-600 font-thin tracking-widest'>SHREY KUMAR</h1>
                         <h2 className='text-lg text-neutral-600 lg:text-start text-center'>Hello</h2>
-                        <p className='text-lg text-neutral-600 lg:text-start text-center'>I am Shrey Kumar, persuing MCA from Meerut College.I am From a village called Saidpur in Bulandshahar District, Uttar Pradesh, I currently live in Gurugram.My family consists of 6 members (including me), My parents, grandparents, and my brother who works in Lenskart.My father is a teacher by profession and my Mother is housewife. I'd love coding and wants to learn more and more, my hobies are playing a lot of sports and eager to learn something new daily.My strengths are Loneliness,Patience,Conscious.</p>
+                        <p className='text-lg text-neutral-600 lg:text-start text-center'>I am Shrey Kumar, persuing MCA from Meerut College.I am from a village called Saidpur in Bulandshahar District, Uttar Pradesh. I'd love coding and wants to learn more and more, my hobies are playing a lot of sports and eager to learn something new daily.My strengths are Loneliness,Patience.</p>
                         <button className='px-8 py-2 rounded-md shadow-sm shadow-zinc-800'>Learn More</button>
                     </div>
                 </div>
