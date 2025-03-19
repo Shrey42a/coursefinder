@@ -10,8 +10,8 @@ function About() {
                     <div className='lg:h-4/5 lg:w-1/2 h-full w-full rounded-lg flex flex-col items-center justify-center space-y-2'>
                         <h1 className='lg:text-3xl text-lg fnt text-neutral-600 font-thin tracking-widest'>SHREY KUMAR</h1>
                         <h2 className='text-lg text-neutral-600 lg:text-start text-center'>Hello</h2>
-                        <p className='text-lg text-neutral-600 lg:text-start text-center'>I am Shrey Kumar, persuing MCA from Meerut College.I am from a village called Saidpur in Bulandshahar District, Uttar Pradesh. I'd love coding and wants to learn more and more, my hobies are playing a lot of sports and eager to learn something new daily.My strengths are Loneliness,Patience.</p>
-                        <button className='px-8 py-2 rounded-md shadow-sm shadow-zinc-800'>Learn More.</button>
+                        <p className='text-lg text-neutral-600 lg:text-start text-center'>I am Shrey Kumar, persuing MCA from Meerut College.I am from Saidpur, Bulandshahar, Uttar Pradesh.</p>
+                        <a href='https://shreykr42.netlify.app' target='_blank'><button className='cursor-pointer px-8 py-2 rounded-md shadow-sm shadow-zinc-800'>Learn More.</button></a>
                     </div>
                 </div>
             </div>
