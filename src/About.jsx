@@ -11,7 +11,7 @@ function About() {
                         <h1 className='lg:text-3xl text-lg fnt text-neutral-600 font-thin tracking-widest'>SHREY KUMAR</h1>
                         <h2 className='text-lg text-neutral-600 lg:text-start text-center'>Hello</h2>
                         <p className='text-lg text-neutral-600 lg:text-start text-center'>I am Shrey Kumar, persuing MCA from Meerut College.I am from Saidpur, Bulandshahar, Uttar Pradesh.</p>
-                        <a href='https://shreykr42.netlify.app' target='_blank'><button className='cursor-pointer px-8 py-2 rounded-md shadow-sm shadow-zinc-800'>Learn More.</button></a>
+                        <button className='cursor-pointer px-8 py-2 rounded-md shadow-sm shadow-zinc-800'>Learn More.</button>
                     </div>
                 </div>
             </div>
