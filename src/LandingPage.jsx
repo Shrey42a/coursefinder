@@ -22,7 +22,7 @@ function LandingPage(){
 
  return(
     <>
- <div className="lp space-y-10 flex rounded-md flex-col justify-evenly h-3/4 w-full lg:w-1/3 p-4">
+ <div className="lp space-y-10 top-20 lg:top-24 relative flex rounded-md flex-col justify-evenly h-max w-4/5 lg:w-1/3 p-4">
  <h1 className="text-center text-xl tracking-wider font-semibold text-black uppercase">Professional Course Finder</h1>
   <div className="flex flex-col justify-start space-y-6 h-3/4 w-full">
   <div className="flex flex-col space-y-1">
@@ -48,7 +48,7 @@ function LandingPage(){
   </select>
   </div>
   <Link onClick={() => handleSendData()} to="/courses" className="flex items-center justify-center w-full">
-      <button className="w-full btn text-center rounded-lg px-4 py-2 fnt font-semibold text-black">Find course</button>
+      <button className="w-full cursor-pointer btn text-center rounded-lg px-4 py-2 fnt font-semibold text-black">Find course</button>
   </Link>
   <h1 className='text-xl text-center tracking-wide'>Find Best & Free Courses on many job <br></br> oriented topics by industry experts.</h1>
   </div>

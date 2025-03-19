@@ -11,7 +11,7 @@ import Footer from './Footer';
 function App() {
   return (
     <>
-      <div className='h-max w-full space-y-10 flex flex-col items-center justify-center'>
+      <div className='h-screen w-full flex flex-col justify-between items-center'>
       <Navbar />
       <Routes>
         <Route index element={<LandingPage/>}></Route>
